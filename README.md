@@ -1,2 +1,2 @@
-# exercise-repo
-This repo is for exercises.
+# Python Exercise
+This repo is for basic to advanced python exercises.
